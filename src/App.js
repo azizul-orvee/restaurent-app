@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         This is the dev branch
+         This is the dev branch now mergin with main branch
         </p>
         <a
           className="App-link"
